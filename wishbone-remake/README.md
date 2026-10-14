@@ -37,3 +37,4 @@ Set a `SECRET_KEY` environment variable on any host (any long random text).
 ## Pictures
 JPG, PNG, WebP and GIF are accepted (checked by file contents, not filename).
 Pictures are shown cropped to portrait with CSS; large photos are stored as-is.
+*Branch test
